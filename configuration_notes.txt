@@ -1,6 +1,8 @@
 https://www.robertcooper.me/using-eslint-and-prettier-in-a-typescript-project
-
 https://dev.to/robertcoopercode/using-eslint-and-prettier-in-a-typescript-project-53jb
 
 https://github.com/jest-community/jest-runner-eslint
 
+https://glebbahmutov.com/blog/configure-prettier-in-vscode/#vscode-setup
+
+https://basarat.gitbook.io/typescript/intro-1/jest
